@@ -1,3 +1,8 @@
+"""
+Needed this before understanding that sometimes IDE just doesn't recognise some methods and you don't have to write them manually.
+Now there's no need in this file but I want to keep it here as a reminder for myself that ^^^^^^
+"""
+
 from moviepy.decorators import apply_to_audio, apply_to_mask
 
 
